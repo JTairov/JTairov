@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JTairov
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning JavaScript basics
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me : tairov9696@gmail.com
 
 <!---
