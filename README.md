@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+function dragdrop(event) {
+    event.target.classList.remove('hovered');
+    event.target.append(item);
+}
