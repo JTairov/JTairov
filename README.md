@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tairov.jasur@yandex.ru**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: telegram: @Tairov_Jasurbek</h3>
 <p align="left">
 </p>
 
