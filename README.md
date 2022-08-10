@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jasur</h1>
-<h3 align="center">Beginning but passionate frontend developer</h3>
-
 - 🔭 I’m currently working on [home-page for an arts gallery](https://github.com/JTairov/Blanchard-home-page)
 
 - 🌱 I’m currently learning **react**
