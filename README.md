@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [pairs game](https://github.com/JTairov/pairs-game)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react** and **typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JTairov](https://github.com/JTairov)
 
