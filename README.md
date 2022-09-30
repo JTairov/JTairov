@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **javascript, css, html**
 
-- 📫 How to reach me **tairov.jasur@yandex.ru**
+- 📫 How to reach me **tairov9696@gmail.com**
 
 <h3 align="left">Connect with me: telegram: @Tairov_Jasurbek</h3>
 <p align="left">
