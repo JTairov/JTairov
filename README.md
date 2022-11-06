@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on [news-app](https://github.com/JTairov/news-app)
 
-- 🌱 I’m currently learning **react** and **typescript**
+- 🌱 I’m currently learning **redux** and **typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JTairov](https://github.com/JTairov)
 
-- 💬 Ask me about **javascript, css, html**
+- 💬 Ask me about **javascript, css, html, react.js**
 
 - 📫 How to reach me **tairov9696@gmail.com**
 
