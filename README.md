@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently working on [news-app](https://github.com/JTairov/news-app)
 
-- 🌱 I’m currently learning **redux** and **typescript**
+- 🌱 I’m currently improving **Redux** and **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JTairov](https://github.com/JTairov)
-
-- 💬 Ask me about **javascript, css, html, react.js**
+- 💬 Ask me about **javascript, react.js, css, html**
 
 - 📫 How to reach me **tairov9696@gmail.com**
 
@@ -15,6 +13,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JTairov&theme=tokyonight)](https://git.io/streak-stats) -->
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe)](https://github.com/harish-sethuraman/readme-components) [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7)](https://github.com/harish-sethuraman/readme-components) [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c)](https://github.com/harish-sethuraman/readme-components) [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa)](https://github.com/harish-sethuraman/readme-components) [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=github)](https://github.com/harish-sethuraman/readme-components) [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1)](https://github.com/harish-sethuraman/readme-components) [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=Redux&svgfill=764abc)](https://github.com/harish-sethuraman/readme-components) 
+
+
+
