@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F70E&background=000000&vCenter=true&width=1000&height=60&lines=%3E+HI!+I+am+Jasur!;%3E+Passionate+frontend-developer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [news-app](https://github.com/JTairov/news-app)
-
 - 🌱 I’m currently improving **Redux** and **TypeScript**
 
 - 💬 Ask me about **javascript, react.js, css, html**
