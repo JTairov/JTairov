@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently improving **Algorithms** and **Data Structures**
 
-- 💬 Ask me about **javascript, react.js, css, html, node.js, typescript**
+- 💬 Ask me about **javascript, react.js, sass, html, node.js, typescript**
 
 - 📫 How to reach me **tairov9696@gmail.com**
 
